@@ -23,7 +23,7 @@ public class SauceLabsDemo {
 
 	//Get this info from Saucelabs profile account details
 	public static final String USERNAME = "rzhellraiser";
-	public static final String ACCESS_KEY = "5e8b9402-698b-4a49-ae28-64536246d395";
+	public static final String ACCESS_KEY = "xxxxxxx";
 	public static final String URL = "https://" + USERNAME + ":" + ACCESS_KEY + "@ondemand.us-west-1.saucelabs.com:443/wd/hub";
 	
 	//static String projectPath = System.getProperty("user.dir");
